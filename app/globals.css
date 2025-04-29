@@ -9,6 +9,48 @@ a {
   text-decoration: underline;
 }
 
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.site-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.intro {
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+.page-list {
+  list-style: none;
+  padding: 0;
+}
+
+.page-list li {
+  margin-bottom: 0.5rem;
+}
+
+.page-list a {
+  text-decoration: none;
+  color: #0070f3;
+}
+
+.page-list a:hover {
+  text-decoration: underline;
+}
+
 
 
 /* :root {

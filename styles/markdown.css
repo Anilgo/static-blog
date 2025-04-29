@@ -1,0 +1,61 @@
+.markdown-body {
+    font-family: "Georgia", serif;
+    line-height: 1.8;
+    color: #222;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .markdown-body h1 {
+    font-size: 2rem;
+    margin-top: 2rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.3rem;
+  }
+  
+  .markdown-body h2 {
+    font-size: 1.6rem;
+    margin-top: 1.5rem;
+  }
+  
+  .markdown-body p {
+    margin: 1rem 0;
+  }
+  
+  .markdown-body code {
+    background-color: #f4f4f4;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  
+  .markdown-body pre {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    overflow: auto;
+    border-radius: 6px;
+  }
+  
+  .markdown-body table {
+    border-collapse: collapse;
+    margin-top: 1rem;
+    width: 100%;
+  }
+  
+  .markdown-body table, th, td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+  }
+  
+  .markdown-body ul {
+    padding-left: 1.5rem;
+  }
+  
+  .markdown-body blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 1rem;
+    color: #666;
+    margin: 1rem 0;
+  }
+  
